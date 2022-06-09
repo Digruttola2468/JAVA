@@ -1,3 +1,5 @@
+package Basico;
+
 import java.util.stream.IntStream;
 
 
@@ -9,7 +11,7 @@ public class Condicionales{
         String texto = "Hola";
         String texto2 = "hola";
 
-        //Condicionales con Tipos Numericos
+        //Basico.Condicionales con Tipos Numericos
         // == igual que
         // > mayor que ; >= mayor o igual que
         // < menor que ; <= menor o igual que
@@ -32,7 +34,7 @@ public class Condicionales{
         System.out.println();
         System.out.println();
 
-        //Condicionales con Tipos String
+        //Basico.Condicionales con Tipos String
         if(texto.equals(texto2)){
             System.out.println("Son iguales");
         }else if(texto.length() > texto2.length()){
@@ -54,7 +56,7 @@ public class Condicionales{
         System.out.println();
 
 
-        //Condicionales
+        //Basico.Condicionales
         //      && AND
         //      || OR
         //      !  NOT

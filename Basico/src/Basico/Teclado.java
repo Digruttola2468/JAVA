@@ -1,3 +1,5 @@
+package Basico;
+
 import java.util.Scanner;
 
 public class Teclado{

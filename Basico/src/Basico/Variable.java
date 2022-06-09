@@ -1,3 +1,5 @@
+package Basico;
+
 public class Variable {
     //Global
     int numeroGlobal = 10;
@@ -21,7 +23,7 @@ public class Variable {
         System.out.println("Byte: " + Byte);
         System.out.println("Char: " + Char);
         System.out.println("Boolean: " + isTrue);
-        System.out.println("Variable Global: " + new Variable().numeroGlobal);
+        System.out.println("Basico.Variable Global: " + new Variable().numeroGlobal);
     }
 
 }
