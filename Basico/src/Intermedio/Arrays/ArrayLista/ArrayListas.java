@@ -1,4 +1,4 @@
-package Intermedio.ArrayLista;
+package Intermedio.Arrays.ArrayLista;
 
 import java.util.ArrayList;
 

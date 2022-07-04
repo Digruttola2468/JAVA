@@ -1,4 +1,4 @@
-package Intermedio.ArrayLista;
+package Intermedio.Arrays.ArrayLista;
 
 public class Persona {
     String nombre;
