@@ -1,4 +1,4 @@
-package Intermedio.BasicIO.Scann;
+package Intermedio.BasicIO.StreamIO.Scann;
 import java.io.FileReader;
 import java.io.BufferedReader;
 import java.io.IOException;

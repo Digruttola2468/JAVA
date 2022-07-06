@@ -1,4 +1,4 @@
-package Intermedio.BasicIO.Formatting;
+package Intermedio.BasicIO.StreamIO.Formatting;
 
 public class Principal {
     public static void main(String[] args) {

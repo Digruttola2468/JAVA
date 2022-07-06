@@ -1,4 +1,4 @@
-package Intermedio.BasicIO.objectStream;
+package Intermedio.BasicIO.StreamIO.objectStream;
 
 
 import java.io.Serializable;

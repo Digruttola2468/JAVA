@@ -1,4 +1,4 @@
-package Intermedio.BasicIO;
+package Intermedio.BasicIO.StreamIO;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

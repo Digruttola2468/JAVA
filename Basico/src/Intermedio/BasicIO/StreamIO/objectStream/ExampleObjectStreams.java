@@ -1,6 +1,4 @@
-package Intermedio.BasicIO.objectStream;
-
-import Intermedio.BasicIO.objectStream.Persona;
+package Intermedio.BasicIO.StreamIO.objectStream;
 
 import java.io.*;
 
