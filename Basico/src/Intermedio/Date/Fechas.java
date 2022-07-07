@@ -13,6 +13,9 @@ import java.util.Date;
 public class Fechas {
     public static void main(String[] args) throws ParseException {
         //Mostrar Fecha
+        Date date2 = new Date();
+        System.out.println(date2);
+
         LocalDate myOb = LocalDate.now();
         System.out.println(myOb);
 
